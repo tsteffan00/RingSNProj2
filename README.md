@@ -6,7 +6,7 @@ DevOps Engineers: Taylor Steffan, Gilbert Mwangi<br />
 Gitflow Manager: John Amores<br />
 
 Developers:<br />
-Morgan Lanueva<br />
+Morgen Lanueva<br />
 Abdalla Hablas<br />
 Alda Caballero<br />
 Taylor Steffan<br />
