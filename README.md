@@ -1,9 +1,9 @@
 # Ring Social Media Network
 
-Team Lead: Ricardo Carrasco\n
-Scrum Master: Javier Santana
-DevOps Engineers: Taylor Steffan, Gilbert Mwangi
-Gitflow Managers: John Amores
+Team Lead: Ricardo Carrasco<br />
+Scrum Master: Javier Santana<br />
+DevOps Engineers: Taylor Steffan, Gilbert Mwangi<br />
+Gitflow Managers: John Amores<br />
 
 Developers:
 Morgan Lanueva
