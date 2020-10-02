@@ -1,9 +1,9 @@
-# Ring Social Media Network
+# Minglr Social Media Network
 
 Team Lead: Ricardo Carrasco<br />
 Scrum Master: Javier Santana<br />
 DevOps Engineers: Taylor Steffan, Gilbert Mwangi<br />
-Gitflow Managers: John Amores<br />
+Gitflow Manager: John Amores<br />
 
 Developers:<br />
 Morgan Lanueva<br />
