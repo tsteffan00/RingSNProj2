@@ -5,16 +5,16 @@ Scrum Master: Javier Santana<br />
 DevOps Engineers: Taylor Steffan, Gilbert Mwangi<br />
 Gitflow Managers: John Amores<br />
 
-Developers:
-Morgan Lanueva
-Abdalla Hablas
-Alda Caballero
-Taylor Steffan
-John Amores
-Gilbert Mwangi
-Javier Santana
-Ricardo Carrasco
+Developers:<br />
+Morgan Lanueva<br />
+Abdalla Hablas<br />
+Alda Caballero<br />
+Taylor Steffan<br />
+John Amores<br />
+Gilbert Mwangi<br />
+Javier Santana<br />
+Ricardo Carrasco<br />
 
-Development Notes:
-MAIN branch is exclusively for final operations.
-DEVELOPMENT branch is for pushing any finished code to be checked by Ric and Javier.
+Development Notes:<br />
+MAIN branch is exclusively for final operations.<br />
+DEVELOPMENT branch is for pushing any finished code to be checked by Ric and Javier.<br />
